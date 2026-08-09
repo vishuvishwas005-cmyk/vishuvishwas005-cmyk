@@ -64,7 +64,6 @@ const vishwas = {
 <details open>
 <summary><h2>📊 GitHub Stats</h2></summary>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vishuvishwas005-cmyk&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishuvishwas005-cmyk&theme=tokyonight&hide_border=true" height="165"/>
   </div>
 </details>
