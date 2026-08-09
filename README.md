@@ -69,3 +69,7 @@ const vishwas = {
 </details>
 
 <p align="center"><em>Open to full-stack developer roles — feel free to reach out.</em></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishuvishwas005-cmyk/vishuvishwas005-cmyk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
