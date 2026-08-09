@@ -14,9 +14,9 @@
 
 <br/>
 
-## 👾 A little about me
+## 👋 A little about me
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vishuvishwas005-cmyk&data=repositories,stars,commits&theme=dark)]
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vishuvishwas005-cmyk&data=repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 I'm a **Computer Science Engineering student** (graduating 2027) currently working as a **Web Development Intern**, building full-stack web products end-to-end — from front-end UI to backend logic to deployment.
 
