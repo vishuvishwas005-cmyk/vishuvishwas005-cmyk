@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="250" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/coder.gif" alt="coding banner"/>
+  <video src="https://github.com/user-attachments/assets/cfce1b3c-871c-4f45-9497-d1270da7ed14" width="400" controls></video>
   <br/>
   <br/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1500&color=58A6FF&center=true&repeat=true&width=600&height=60&lines=Hi%2C+I'm+Vishwas+R!;Full-Stack+Web+Developer;CSE+Student+%40+City+Engineering+College;Building+real-world+web+apps" alt="Typing SVG" />
